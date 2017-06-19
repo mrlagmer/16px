@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://16pixels.com.au/</loc>
+    <loc>https://16pixels.com.au/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://16pixels.com.au/categories/</loc>
+    <loc>https://16pixels.com.au/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://16pixels.com.au/tags/</loc>
+    <loc>https://16pixels.com.au/tags/</loc>
     <priority>0</priority>
   </url>
   
